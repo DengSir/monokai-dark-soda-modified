@@ -1,0 +1,22 @@
+{
+    "name": "monokai-dark-soda-modified",
+    "displayName": "Monokai Dark Soda Modified",
+    "description": "Monokai Dark Soda Modified",
+    "version": "0.0.1",
+    "publisher": "DengSir",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Dark Soda Modified",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Dark Soda Modified-color-theme.json"
+            }
+        ]
+    }
+}
