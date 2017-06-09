@@ -1,12 +1,14 @@
 {
     "name": "Monokai Dark Soda Modified",
     "colors": {
-        "list.dropBackground": "#383b3d",
-        "editor.background": "#1e1e1e",
-        "editor.foreground": "#d4d4d4",
-        "editor.inactiveSelectionBackground": "#3a3d41",
-        "editor.selectionHighlightBackground": "#add6ff26",
-        "editorIndentGuide.background": "#404040"
+		"list.dropBackground": "#383b3d",
+		"editor.background": "#1e1e1e",
+		"editor.foreground": "#d4d4d4",
+		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.selectionHighlightBackground": "#add6ff26",
+		"editorIndentGuide.background": "#404040",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
     },
     "tokenColors": [
         {
