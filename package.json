@@ -4,6 +4,7 @@
     "description": "Monokai Dark Soda Modified",
     "version": "0.0.1",
     "publisher": "DengSir",
+    "repository": "https://github.com/DengSir/monokai-dark-soda-modified.git",
     "engines": {
         "vscode": "^1.12.0"
     },
